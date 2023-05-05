@@ -17,7 +17,7 @@ type AddressGovermentType = {
     street: AddressTitleType
 }
 
-type GovermentBuildingType = {
+export type GovermentBuildingType = {
     type: 'HOSPITAL' | 'FIRE-STATION'
     budget: number
     staffCount: number
