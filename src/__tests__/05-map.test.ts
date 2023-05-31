@@ -30,10 +30,4 @@ test('should get array of greeting messages', () => {
 
 
 
-
-
-
-
-
-
 export {}
